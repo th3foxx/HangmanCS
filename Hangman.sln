@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{DB89DB21-B627-4602-982A-1533131191D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB89DB21-B627-4602-982A-1533131191D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB89DB21-B627-4602-982A-1533131191D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB89DB21-B627-4602-982A-1533131191D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB89DB21-B627-4602-982A-1533131191D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
