@@ -2,8 +2,8 @@
 
 public class Player
 {
-    public int Score { get; private set; }
-    public int Lives { get; private set; } = 9;
+    public int Score { get; private set; } = 0;
+    public int Lives { get; private set; } = 7;
 
     public char PlayerInput()
     {

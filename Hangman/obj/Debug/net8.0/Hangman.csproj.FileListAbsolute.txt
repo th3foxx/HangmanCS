@@ -12,3 +12,7 @@ C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\refint\Hangman.dll
 C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\Hangman.pdb
 C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
 C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\ref\Hangman.dll
+C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\Hangman.sourcelink.json
+C:\Users\lamer\RiderProjects\Hangman\Hangman\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\lamer\RiderProjects\Hangman\Hangman\obj\Debug\net8.0\Hangman.csproj.Up2Date
